@@ -1,4 +1,4 @@
-PyPDF2
-beautifulsoup4
-html5lib
-requests
+PyPDF2==3.0.1
+beautifulsoup4==4.11.2
+html5lib==1.1
+requests==2.28.2
